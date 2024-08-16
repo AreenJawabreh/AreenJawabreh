@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Areen Jawabreh
-- 🔭 I have about 3 years of experince working as a software engineer
-- 💻 I am currently working as a frontned engineer at the core team of Upwork
-- 💁‍♂️ I also teached as a teacher asistant at Birzeit unversity
-- 🌱 I am currently focusing on learning backend codes
-- 😎 Further more, I created a community called "one hand can't clap" to share knowaladge in Palestine with over 5000 SWE in it 🤯
-- ⚡ Fun fact: I LOVE making jokes while working to make a friendly enviroment 😹
+- 🔭 I am a computer engineer 
+- 💻 I am a fast learner who enjoys working with teams and getting more experience
+- 💁‍♂️ I have graduated from An-Najah University
+- 🌱 I am currently focusing on learning Backend development
 
 <br />
 
