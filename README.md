@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I have about 3 years of experince working as a software engineer
 - 💻 I am currently working as a frontned engineer at the core team of Upwork
 - 💁‍♂️ I also teached as a teacher asistant at Birzeit unversity
-- 🌱 I am currently focusing on learning design systems
+- 🌱 I am currently focusing on learning backend codes
 - 😎 Further more, I created a community called "one hand can't clap" to share knowaladge in Palestine with over 5000 SWE in it 🤯
 - ⚡ Fun fact: I LOVE making jokes while working to make a friendly enviroment 😹
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mkhasib&count_private=true&theme=dracula&hide_border=true" alt = "mkhasib's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mkhasib&count_private=true&theme=dracula&hide_border=true" alt = "mkhasib's Rating" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=AreenJawabreh&count_private=true&theme=dracula&hide_border=true" alt = "mkhasib's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AreenJawabreh&count_private=true&theme=dracula&hide_border=true" alt = "mkhasib's Rating" width = 400 >
 
 </p>
 
