@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p align = "center">
 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=AreenJawabreh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=pink&title_color=pink&text_color=fff&icon_color=fff" alt = "AreenJawabreh's Languages/Frameworks" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=AreenJawabreh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=FFC0CB&title_color=FFC0CB&text_color=fff&icon_color=fff" alt = "AreenJawabreh's Languages/Frameworks" width = 400 />
 </p>
 
 
